@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.usashooting.org/library/Match_Results/2021/2021_JuniorOlympics_Pistol.pdf
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  date_start: "2021-12-08"
+  description: "1st Place"
+  organization: USA Shooting
+  organization_url: https://www.usashooting.org
+  title: 2021 Pistol Winter Airgun National Championships
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
