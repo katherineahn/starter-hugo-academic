@@ -10,15 +10,17 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/katherineahn
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/katherineahn
+  - display:
+      header: false
+    link: https://www.instagram.com/katherineahn/
+    icon_pack: fab
+    icon: instagram
 organizations:
   - name: Menlo-Atherton High School
     url: https://www.mabears.org/
