@@ -18,7 +18,7 @@ social:
     link: https://github.com/katherineahn
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: www.linkedin.com/in/katherineahn
 organizations:
   - name: Menlo-Atherton High School
     url: https://www.mabears.org/
