@@ -28,14 +28,10 @@ address:
   country: United States
   country_code: US
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
   - icon: instagram
     icon_pack: fab
     name: Instagram
-    link: '@katherineahn'
+    link: 'https://www.instagram.com/katherineahn/'
   - icon: comments
     icon_pack: fas
     name: Discuss on Forum
@@ -86,7 +82,7 @@ section_pager: false
 docs_section_pager: true
 sharing: true
 copyright_license:
-  enable: false
+  enable: true
   allow_derivatives: false
   share_alike: true
   allow_commercial: false

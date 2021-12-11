@@ -31,7 +31,7 @@ education:
       year: Expected 2024
     - course: Pre-college Program
       institution: San Francisco Convservatory of Music
-      year: 2017 - 2020
+      year: 2016 - 2020
 superuser: true
 highlight_name: true
 title: Katherine Ahn
