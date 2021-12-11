@@ -1,5 +1,6 @@
 ---
 role: Violinist
+avatar_filename: img_0057-1-.jpeg
 bio: My interests include orchestra, ice skating and competitive national s.
 interests:
   - Orchesta Performance
@@ -32,10 +33,9 @@ education:
 superuser: true
 highlight_name: true
 title: Katherine Ahn
-email: ""
+email: itskatherineahn@gmail.com
 ---
-
-Katherine Ahn is currently the Principal Violinist at Menlo-Atherton High School Orchestra in Atherton, CA. Her sports interests include theater skating and national level competitive s. She leads the music service group, which develops and delivers live music to the veterans at the local VA Hospital.
+Katherine Ahn is currently a second chair Violinist at Menlo-Atherton High School Orchestra in Atherton, CA. Her sports interests include theater skating and national level competitive s. She leads the music service group, which develops and delivers live music to the veterans at the local VA Hospital.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
