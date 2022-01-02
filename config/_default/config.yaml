@@ -7,6 +7,9 @@ title: Katherine # Website name
 baseurl: 'https://katherine-ahn.com/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
+# remove the line below to re-enable the website 
+disableKinds: [page, home, section, taxonomy, term, RSS, sitemap, robotsTXT, 404]
+
 ############################
 ## LANGUAGE
 ############################
